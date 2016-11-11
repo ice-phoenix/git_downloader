@@ -1,2 +1,0 @@
-defmodule GitDownloader do
-end
